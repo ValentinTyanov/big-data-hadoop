@@ -1,0 +1,4 @@
+Amex	110
+Diners	89
+Mastercard	277
+Visa	522

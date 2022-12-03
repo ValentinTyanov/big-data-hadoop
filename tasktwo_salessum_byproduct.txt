@@ -1,0 +1,3 @@
+Product1	1028400.0
+Product2	489600.0
+Product3	112500.0
