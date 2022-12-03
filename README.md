@@ -1,9 +1,6 @@
 # big-data-hadoop
-Hadoop application that iterates over a sales.csv file and outputs different results.
+Hadoop application that goes over a sales.csv file and outputs results like sales revenue per product, number of transactions for each payment (card) type and the amount of transactions done on each day of the year (in m/d/yy format).
 They can be seen in the root folder. 
-First result is the amount of times each Payment Card has been used during transactions.
-Second result is the total sales sum for each product.
-Third result is the transaction count for each day of the year in the m/d/yy format. 
 
 To get the application running, you first need to setup a Single Node Hadoop Cluster.
 The prerequisites is JDK & Maven. You need to set them as environment & path variables as well as Hadoop.
